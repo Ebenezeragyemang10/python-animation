@@ -1,0 +1,27 @@
+# Manim media outputs (videos, images, and partial movie files)
+/media/
+*.mp4
+*.mov
+*.avi
+*.gif
+*.png
+
+# Python
+__pycache__/
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+
+*.aux
+*.log
+*.dvi
+*.toc
+*.xdv
+
+.vscode/t
+.DS_Store
